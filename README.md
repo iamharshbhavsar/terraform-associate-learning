@@ -12,4 +12,4 @@ https://codingnconcepts.com/post/terraform-associate-exam-questions/
 ## PROGRESS
 ### Day 0 (22/10)
 
-- Starting preparing for the associate examination.
+- Starting preparation for the associate examination.
