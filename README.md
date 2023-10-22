@@ -1,6 +1,6 @@
 # Terraform-Associate-Learning
 
-
+⚠ **Expected to appear for the exam till 6/12 (45 days from 22/10)** ⚠
 
 ## REFERENECE LINK
 
