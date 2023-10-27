@@ -3,10 +3,11 @@
 ⚠ **Expected to appear for the exam till 6/12 (45 days from 22/10)** ⚠
 
 ## EXAM GUIDE
-https://www.hashicorp.com/certification/terraform-associate
+
+📘 https://www.hashicorp.com/certification/terraform-associate
 
 ## REFERENECE LINK
 
-https://www.examtopics.com/exams/hashicorp/terraform-associate/view/
+* 🔗 https://www.examtopics.com/exams/hashicorp/terraform-associate/view/
+* 🔗 https://codingnconcepts.com/post/terraform-associate-exam-questions/
 
-https://codingnconcepts.com/post/terraform-associate-exam-questions/
