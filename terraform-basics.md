@@ -58,3 +58,5 @@ IaC allows to easily <b>share, version or inventory</b> the cloud infrstaruture.
 **3. Orchestration:** Orchestration is the act of coordinating multiple systems or services. It is a common term when working with microservices, containers and Kubernetes. Orchestration could be Kubernetes, Salt.
 
 ## Terraform Lifecycle
+
+<img src="https://i.ibb.co/NVXC3r0/terraform-lifecycle.png" alt="terraform-lifecycle" border="3">
